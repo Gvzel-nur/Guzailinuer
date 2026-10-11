@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Gvzel-nur.github.io/sitemap.xml
+Sitemap: https://gvzel-nur.github.io/sitemap.xml
